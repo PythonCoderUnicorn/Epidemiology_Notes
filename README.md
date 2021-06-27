@@ -4,7 +4,7 @@ PDF of Epidemiology basics from my Undergraduate Degree
 - Population Health
 - Social Determinants of Health
 - Disease measurements
-- Rates/ Propoertions/ Ratios
+- Rates/ Proportions/ Ratios
 - Prevalence 
 - Incidence
 - Mortality
