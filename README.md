@@ -11,4 +11,4 @@ PDF of Epidemiology basics from my Undergraduate Degree
 - Epidemiology study designs
 
 
-Check out the Case Report of **Star Trek** Starfleet Medical Case Report made by my and fellow classmate Giles, C.
+Check out the Case Report of **Star Trek** Starfleet Medical Case Report made by me and fellow classmate Giles, C.
